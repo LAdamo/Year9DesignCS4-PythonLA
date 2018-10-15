@@ -13,7 +13,7 @@
 
 
 
-print("****************************************************************************")
+print("*************************************************************************")
 #Taking inputs
 
 word = ""
@@ -31,4 +31,7 @@ while (len(word) <6 or word.isalpha() == False):
 		print("This is likely more than one word or contains characters")
 	#When we reach the bottom of the loop block, we check the condition again
 	#If it is true, we go back to the top and run it again
+
 print(word+" is a seriously long word!")
+#CAUTION: YOU DO NOT USE WHILE LOOPS TO CONTROL INPUTS WITH GUI PROGRAMS
+

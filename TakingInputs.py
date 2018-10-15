@@ -1,6 +1,6 @@
 #Input: What does the program need to take from the user
 print("Hello")
-game = input("What is your favorite game:")
+game = input("What is your favorite video game:")
 #Process: What is the program gonna do with it 
 
 #Output: What the program gives 
